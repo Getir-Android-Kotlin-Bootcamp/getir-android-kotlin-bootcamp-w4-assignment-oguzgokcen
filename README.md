@@ -1,2 +1,3 @@
 # homeworkw4
-network request
+network request using default http
+all outputs are in log
